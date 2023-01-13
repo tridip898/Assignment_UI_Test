@@ -69,9 +69,6 @@ flutter:
   assets:
     - lib/images/
     - lib/icons/
-    - lib/json/
-    - asset/splash_image.png
-    - asset/splash_image1.png
     - asset/splash_back.png
   #   - images/a_dot_ham.jpeg
 
